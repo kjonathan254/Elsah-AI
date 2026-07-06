@@ -1,6 +1,6 @@
 # Elsah AI
 
-**Empowering Every Senior, One Conversation at a Time.**
+**Empowering Older Adults, One Conversation at a Time.**
 
 ## Overview
 
@@ -20,3 +20,5 @@ To make technology understandable, accessible, and empowering for every senior c
 - Safety-first recommendations
 - Encourages confidence and independence
 - Focused on the needs of older adults
+- 
+Elsah is the trusted digital companion that helps every older adult confidently navigate the digital world—through personalized guidance, trusted knowledge, and lifelong learning.
